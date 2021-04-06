@@ -1468,7 +1468,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/Core
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DropNumberChanceSimpleScalar_40_115637764B3918F01E6FAFADDC005388,0,,0.1
 
 # Removing all the mayhem scalings
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.1
+# SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.1
 
 # Removing all the mayhem scalings
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageScalarActionSkill_60_39AF483140740A38FC71BA897155CBFF,0,,1.0
@@ -1540,7 +1540,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/Core
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DropNumberChanceSimpleScalar_40_115637764B3918F01E6FAFADDC005388,0,,0.2
 
 # Removing all the mayhem scalings
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.2
+# SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.2
 
 # Removing all the mayhem scalings
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageScalarActionSkill_60_39AF483140740A38FC71BA897155CBFF,0,,1.0
@@ -1612,7 +1612,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/Core
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DropNumberChanceSimpleScalar_40_115637764B3918F01E6FAFADDC005388,0,,0.3
 
 # Removing all the mayhem scalings
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.3
+# SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.3
 
 # Removing all the mayhem scalings
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageScalarActionSkill_60_39AF483140740A38FC71BA897155CBFF,0,,1.0
@@ -1684,7 +1684,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/Core
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DropNumberChanceSimpleScalar_40_115637764B3918F01E6FAFADDC005388,0,,0.4
 
 # Removing all the mayhem scalings
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.4
+# SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.4
 
 # Removing all the mayhem scalings
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageScalarActionSkill_60_39AF483140740A38FC71BA897155CBFF,0,,1.0
@@ -1756,7 +1756,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/Core
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DropNumberChanceSimpleScalar_40_115637764B3918F01E6FAFADDC005388,0,,0.5
 
 # Removing all the mayhem scalings
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.5
+# SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.5
 
 # Removing all the mayhem scalings
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageScalarActionSkill_60_39AF483140740A38FC71BA897155CBFF,0,,1.0
@@ -1828,7 +1828,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/Core
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DropNumberChanceSimpleScalar_40_115637764B3918F01E6FAFADDC005388,0,,0.6
 
 # Removing all the mayhem scalings
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.6
+# SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.6
 
 # Removing all the mayhem scalings
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageScalarActionSkill_60_39AF483140740A38FC71BA897155CBFF,0,,1.0
@@ -1900,7 +1900,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/Core
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DropNumberChanceSimpleScalar_40_115637764B3918F01E6FAFADDC005388,0,,0.7
 
 # Removing all the mayhem scalings
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.7
+# SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.7
 
 # Removing all the mayhem scalings
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageScalarActionSkill_60_39AF483140740A38FC71BA897155CBFF,0,,1.0
@@ -1972,7 +1972,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/Core
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DropNumberChanceSimpleScalar_40_115637764B3918F01E6FAFADDC005388,0,,0.8
 
 # Removing all the mayhem scalings
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.8
+# SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.8
 
 # Removing all the mayhem scalings
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageScalarActionSkill_60_39AF483140740A38FC71BA897155CBFF,0,,1.0
@@ -2044,7 +2044,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/Core
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DropNumberChanceSimpleScalar_40_115637764B3918F01E6FAFADDC005388,0,,0.9
 
 # Removing all the mayhem scalings
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.9
+# SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,0.9
 
 # Removing all the mayhem scalings
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageScalarActionSkill_60_39AF483140740A38FC71BA897155CBFF,0,,1.0
@@ -2116,7 +2116,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/Core
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DropNumberChanceSimpleScalar_40_115637764B3918F01E6FAFADDC005388,0,,1.0
 
 # Removing all the mayhem scalings
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,1.0
+# SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,1.0
 
 # Removing all the mayhem scalings
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageScalarActionSkill_60_39AF483140740A38FC71BA897155CBFF,0,,1.0
@@ -2188,7 +2188,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/Core
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DropNumberChanceSimpleScalar_40_115637764B3918F01E6FAFADDC005388,0,,2.0
 
 # Removing all the mayhem scalings
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,2.0
+# SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,2.0
 
 # Overall Weapon Balance
 # Torgue Stickies Buff
