@@ -1766,7 +1766,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Takedown2/Gear/Grenade
 # Base Game
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_BouncingBosom,Damage_12_F33DA0994756D761207677A51A156787,0,,0.3
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Firestorm,Damage_12_F33DA0994756D761207677A51A156787,0,,1.0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Firestorm,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.5
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Fastball,Damage_12_F33DA0994756D761207677A51A156787,0,,8.0
 
@@ -1984,7 +1984,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,AR_Rowan,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,PS_Unforgiven,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,PS_Unforgiven,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.2
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,PS_Unforgiven,Custom_A_10_6BE78EF448AB3F6F228BC7B266814C86,0,,3.0
 
