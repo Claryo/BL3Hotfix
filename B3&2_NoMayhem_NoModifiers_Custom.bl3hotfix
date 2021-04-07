@@ -3001,7 +3001,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 # Overall Grenade Balance
 # Grenade Augment Balance
 # MIRV
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,MIRV,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.8
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,MIRV,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.6
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,MIRV,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,2.0
 
@@ -3010,7 +3010,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,MIRV,Primary_3_16_1E6ADA3B4212CC38E1A4E59C9B29BBE2,0,,8.0
 
 # Lingering
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Lingering,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.4
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Lingering,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.2
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Lingering,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,3.0
 
@@ -3025,7 +3025,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Lingering,Secondary_3_19_ACA59F5242FD94CFBAB2418760866307,0,,12.0
 
 # Sticky
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Sticky,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.1
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Sticky,Damage_12_F33DA0994756D761207677A51A156787,0,,0.1
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Sticky,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,0.5
 
@@ -3034,7 +3034,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Sticky,Primary_3_16_1E6ADA3B4212CC38E1A4E59C9B29BBE2,0,,2.0
 
 # Bouncy
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Bouncy,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.15
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Bouncy,Damage_12_F33DA0994756D761207677A51A156787,0,,0.05
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Bouncy,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,3.0
 
@@ -3043,7 +3043,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Bouncy,Primary_3_16_1E6ADA3B4212CC38E1A4E59C9B29BBE2,0,,12.0
 
 # Singularity
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Singularity,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.3
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Singularity,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.1
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Singularity,Radius_13_9DDB780D4981106D3843E19FAC0856D3,0,,0.5
 
@@ -3054,7 +3054,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Singularity,Primary_3_16_1E6ADA3B4212CC38E1A4E59C9B29BBE2,0,,4.0
 
 # Transfusion
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Transfusion,Damage_12_F33DA0994756D761207677A51A156787,0,,0.2
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Transfusion,Damage_12_F33DA0994756D761207677A51A156787,0,,0.4
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Transfusion,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,0.3
 
@@ -3063,7 +3063,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Transfusion,Primary_3_16_1E6ADA3B4212CC38E1A4E59C9B29BBE2,0,,1.2
 
 # Large
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Large,Damage_12_F33DA0994756D761207677A51A156787,0,,0.2
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Large,Damage_12_F33DA0994756D761207677A51A156787,0,,0.4
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Large,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,0.4
 
@@ -3072,7 +3072,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Large,Primary_3_16_1E6ADA3B4212CC38E1A4E59C9B29BBE2,0,,1.6
 
 # Spring
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Spring,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.4
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Spring,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.2
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Spring,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,1.0
 
@@ -3087,7 +3087,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Spring,Secondary_3_19_ACA59F5242FD94CFBAB2418760866307,0,,1.4
 
 # MIRV_MIRV
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,MIRV_MIRV,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.3
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,MIRV_MIRV,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.1
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,MIRV_MIRV,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,3.0
 
@@ -3096,7 +3096,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,MIRV_MIRV,Primary_3_16_1E6ADA3B4212CC38E1A4E59C9B29BBE2,0,,12.0
 
 # Money
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Money,Damage_12_F33DA0994756D761207677A51A156787,0,,0.8
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Money,Damage_12_F33DA0994756D761207677A51A156787,0,,1.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Money,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,3.0
 
@@ -3105,7 +3105,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Money,Primary_3_16_1E6ADA3B4212CC38E1A4E59C9B29BBE2,0,,12.0
 
 # Generator
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Generator,Damage_12_F33DA0994756D761207677A51A156787,0,,0.15
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Generator,Damage_12_F33DA0994756D761207677A51A156787,0,,0.35
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Generator,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,0.3
 
@@ -3114,7 +3114,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Generator,Primary_3_16_1E6ADA3B4212CC38E1A4E59C9B29BBE2,0,,1.2
 
 # Nuke
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Nuke,Damage_12_F33DA0994756D761207677A51A156787,0,,0.6
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Nuke,Damage_12_F33DA0994756D761207677A51A156787,0,,0.8
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Nuke,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,1.0
 
@@ -3123,7 +3123,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Nuke,Primary_3_16_1E6ADA3B4212CC38E1A4E59C9B29BBE2,0,,3.0
 
 # Artillery
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Artillery,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.4
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Artillery,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.2
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Artillery,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,0.15
 
@@ -3132,7 +3132,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Artillery,Primary_3_16_1E6ADA3B4212CC38E1A4E59C9B29BBE2,0,,0.6
 
 # Link
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Link,Damage_12_F33DA0994756D761207677A51A156787,0,,0.3
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Link,Damage_12_F33DA0994756D761207677A51A156787,0,,0.5
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Link,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,0.15
 
@@ -3141,7 +3141,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Link,Primary_3_16_1E6ADA3B4212CC38E1A4E59C9B29BBE2,0,,0.5
 
 # Divider
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Divider,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.4
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Divider,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.2
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Divider,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,1.0
 
@@ -3150,7 +3150,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Divider,Primary_3_16_1E6ADA3B4212CC38E1A4E59C9B29BBE2,0,,4.0
 
 # Roider
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Roider,Damage_12_F33DA0994756D761207677A51A156787,0,,0.25
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Roider,Damage_12_F33DA0994756D761207677A51A156787,0,,0.45
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Roider,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,0.3
 
@@ -3159,7 +3159,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Roider,Primary_3_16_1E6ADA3B4212CC38E1A4E59C9B29BBE2,0,,1.2
 
 # Elemental
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,ElementalDamage,Damage_12_F33DA0994756D761207677A51A156787,0,,0.15
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,ElementalDamage,Damage_12_F33DA0994756D761207677A51A156787,0,,0.35
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,ElementalDamage,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,0.2
 
@@ -3174,7 +3174,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,ElementalDamage,Secondary_3_19_ACA59F5242FD94CFBAB2418760866307,0,,0.8
 
 # Rain
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Rain,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Rain,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.3
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Balance_Table.GrenadeMod_Balance_Table,Rain,Primary_1_14_785154D64AF8EEEA12E3F1A63A0B04B6,0,,2.0
 
@@ -3184,93 +3184,93 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balanc
 
 # Grenade Type Balance
 # Exploder
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/Grenade_Balance_Table.Grenade_Balance_Table,Manufacturer_Heavy,Damage_12_F33DA0994756D761207677A51A156787,0,,0.8
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/Grenade_Balance_Table.Grenade_Balance_Table,Manufacturer_Heavy,Damage_12_F33DA0994756D761207677A51A156787,0,,1.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/Grenade_Balance_Table.Grenade_Balance_Table,Manufacturer_Heavy,Radius_13_9DDB780D4981106D3843E19FAC0856D3,0,,0.2
 
 # Homing
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/Grenade_Balance_Table.Grenade_Balance_Table,Manufacturer_Homing,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.3
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/Grenade_Balance_Table.Grenade_Balance_Table,Manufacturer_Homing,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.1
 
 # Longbow
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/Grenade_Balance_Table.Grenade_Balance_Table,Manufacturer_Longbow,Damage_12_F33DA0994756D761207677A51A156787,0,,0.2
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/Grenade_Balance_Table.Grenade_Balance_Table,Manufacturer_Longbow,Damage_12_F33DA0994756D761207677A51A156787,0,,0.4
 
 # Airboosted
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/Grenade_Balance_Table.Grenade_Balance_Table,Manufacturer_AirBoosted,Damage_12_F33DA0994756D761207677A51A156787,0,,0.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/Grenade_Balance_Table.Grenade_Balance_Table,Manufacturer_AirBoosted,Damage_12_F33DA0994756D761207677A51A156787,0,,0.7
 
 # Rubberized
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/Grenade_Balance_Table.Grenade_Balance_Table,Manufacturer_Rubberized,Damage_12_F33DA0994756D761207677A51A156787,0,,0.3
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/Grenade_Balance_Table.Grenade_Balance_Table,Manufacturer_Rubberized,Damage_12_F33DA0994756D761207677A51A156787,0,,0.5
 
 # Impact
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/Grenade_Balance_Table.Grenade_Balance_Table,Manufacturer_Impact,Damage_12_F33DA0994756D761207677A51A156787,0,,0.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/Grenade_Balance_Table.Grenade_Balance_Table,Manufacturer_Impact,Damage_12_F33DA0994756D761207677A51A156787,0,,0.7
 
 # Unique Grenade Balance
 # Cartel
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Event2/Gear/GrenadeMods/GrenadeMod_Event2_Table.GrenadeMod_Event2_Table,FishSlap,Damage_12_F33DA0994756D761207677A51A156787,0,,0.8
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Event2/Gear/GrenadeMods/GrenadeMod_Event2_Table.GrenadeMod_Event2_Table,FishSlap,Damage_12_F33DA0994756D761207677A51A156787,0,,1.0
 
 # DLC1
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Grenade/GrenadeMod_Dandelion_Table.GrenadeMod_Dandelion_Table,AcidBurn,Damage_12_F33DA0994756D761207677A51A156787,0,,0.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Grenade/GrenadeMod_Dandelion_Table.GrenadeMod_Dandelion_Table,AcidBurn,Damage_12_F33DA0994756D761207677A51A156787,0,,0.7
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Grenade/GrenadeMod_Dandelion_Table.GrenadeMod_Dandelion_Table,Slider,Damage_12_F33DA0994756D761207677A51A156787,0,,0.55
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Grenade/GrenadeMod_Dandelion_Table.GrenadeMod_Dandelion_Table,Slider,Damage_12_F33DA0994756D761207677A51A156787,0,,0.75
 
 # DLC3
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Grenade/GrenadeMod_Geranium_Table.GrenadeMod_Geranium_Table,CoreBurst,Damage_12_F33DA0994756D761207677A51A156787,0,,1.3
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Grenade/GrenadeMod_Geranium_Table.GrenadeMod_Geranium_Table,CoreBurst,Damage_12_F33DA0994756D761207677A51A156787,0,,1.5
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Grenade/GrenadeMod_Geranium_Table.GrenadeMod_Geranium_Table,SkagOil,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.1
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Grenade/GrenadeMod_Geranium_Table.GrenadeMod_Geranium_Table,SkagOil,Damage_12_F33DA0994756D761207677A51A156787,0,,0.1
 
 # Takedown2
 # DAF_Lightspeed damage
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Takedown2/Gear/GrenadeMods/GrenadeMod_Unique_BalanceTable_Takedown2.GrenadeMod_Unique_BalanceTable_Takedown2,DAF_Lightspeed,Damage_12_F33DA0994756D761207677A51A156787,0,,0.25
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Takedown2/Gear/GrenadeMods/GrenadeMod_Unique_BalanceTable_Takedown2.GrenadeMod_Unique_BalanceTable_Takedown2,DAF_Lightspeed,Damage_12_F33DA0994756D761207677A51A156787,0,,0.45
 
 # Base Game
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_BouncingBosom,Damage_12_F33DA0994756D761207677A51A156787,0,,0.3
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_BouncingBosom,Damage_12_F33DA0994756D761207677A51A156787,0,,0.5
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Firestorm,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Firestorm,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.3
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Fastball,Damage_12_F33DA0994756D761207677A51A156787,0,,8.0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Fastball,Damage_12_F33DA0994756D761207677A51A156787,0,,8.2
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_EMP,Damage_12_F33DA0994756D761207677A51A156787,0,,0.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_EMP,Damage_12_F33DA0994756D761207677A51A156787,0,,0.7
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_HipHop,Damage_12_F33DA0994756D761207677A51A156787,0,,0.3
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_HipHop,Damage_12_F33DA0994756D761207677A51A156787,0,,0.5
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_WidowMaker,Damage_12_F33DA0994756D761207677A51A156787,0,,0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_WidowMaker,Damage_12_F33DA0994756D761207677A51A156787,0,,0.2
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Surge,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.25
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Surge,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.05
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Nagate,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.9
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Nagate,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.7
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Quasar,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.4
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Quasar,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.2
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_StormFront,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.3
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_StormFront,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.1
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_HunterSeeker,Damage_12_F33DA0994756D761207677A51A156787,0,,-1.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_HunterSeeker,Damage_12_F33DA0994756D761207677A51A156787,0,,-1.3
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Kryll,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.8
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Kryll,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.6
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,MSN_Shroom,Damage_12_F33DA0994756D761207677A51A156787,0,,0.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,MSN_Shroom,Damage_12_F33DA0994756D761207677A51A156787,0,,0.7
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_RedQueen,Damage_12_F33DA0994756D761207677A51A156787,0,,0.2
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_RedQueen,Damage_12_F33DA0994756D761207677A51A156787,0,,0.4
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Epicenter,Damage_12_F33DA0994756D761207677A51A156787,0,,-1.0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Epicenter,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.8
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_WizardOfNOG,Damage_12_F33DA0994756D761207677A51A156787,0,,0.2
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_WizardOfNOG,Damage_12_F33DA0994756D761207677A51A156787,0,,0.4
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_ECHO2,Damage_12_F33DA0994756D761207677A51A156787,0,,0.8
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_ECHO2,Damage_12_F33DA0994756D761207677A51A156787,0,,1.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Chupa,Damage_12_F33DA0994756D761207677A51A156787,0,,0.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_Chupa,Damage_12_F33DA0994756D761207677A51A156787,0,,0.7
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_TranFusion,Damage_12_F33DA0994756D761207677A51A156787,0,,0.4
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,LGD_TranFusion,Damage_12_F33DA0994756D761207677A51A156787,0,,0.6
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,Piss,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.45
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,Piss,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.25
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,ObviousTrap,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.2
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,ObviousTrap,Damage_12_F33DA0994756D761207677A51A156787,0,,0.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,BirthdaySuprise,Damage_12_F33DA0994756D761207677A51A156787,0,,1.0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,BirthdaySuprise,Damage_12_F33DA0994756D761207677A51A156787,0,,1.2
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,Cupcake,Damage_12_F33DA0994756D761207677A51A156787,0,,1.8
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,Cupcake,Damage_12_F33DA0994756D761207677A51A156787,0,,2.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,Toiletbombs,Damage_12_F33DA0994756D761207677A51A156787,0,,0.3
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,Toiletbombs,Damage_12_F33DA0994756D761207677A51A156787,0,,0.5
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,Seeker,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.4
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/GrenadeMods/_Design/Balance/GrenadeMod_Unique_Balance_Table.GrenadeMod_Unique_Balance_Table,Seeker,Damage_12_F33DA0994756D761207677A51A156787,0,,-0.2
 
 # Unique Weapon Balance
 # Atlas
@@ -3637,7 +3637,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,PS_Hyde,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.85
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,PS_RoisensThorns,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.95
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,PS_RoisensThorns,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.45
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,SG_Redline,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
@@ -3737,7 +3737,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Weapon/
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Weapon/DataTable_WeaponBalance_Dandelion.DataTable_WeaponBalance_Dandelion,SM_Boomer,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.3
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Weapon/DataTable_WeaponBalance_Dandelion.DataTable_WeaponBalance_Dandelion,PS_Scoville,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.25
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Weapon/DataTable_WeaponBalance_Dandelion.DataTable_WeaponBalance_Dandelion,PS_Scoville,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.75
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Weapon/DataTable_WeaponBalance_Dandelion.DataTable_WeaponBalance_Dandelion,SR_AutoAime,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.0
 
@@ -3837,7 +3837,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/D
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,SG_Dakota,Custom_A_10_6BE78EF448AB3F6F228BC7B266814C86,0,,2.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,PS_Rose,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,PS_Rose,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.5
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,SR_ImaginaryNumber,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.85
 
@@ -3914,7 +3914,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Alisma/Gear/Weapon/Dat
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Alisma/Gear/Weapon/DataTable_WeaponBalance_Alisma.DataTable_WeaponBalance_Alisma,SR_Septimator_2,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.3
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Alisma/Gear/Weapon/DataTable_WeaponBalance_Alisma.DataTable_WeaponBalance_Alisma,PS_Voice,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.55
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Alisma/Gear/Weapon/DataTable_WeaponBalance_Alisma.DataTable_WeaponBalance_Alisma,PS_Voice,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.05
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Alisma/Gear/Weapon/DataTable_WeaponBalance_Alisma.DataTable_WeaponBalance_Alisma,SM_AshenBeast,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.85
 
