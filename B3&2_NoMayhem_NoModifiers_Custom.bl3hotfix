@@ -3362,7 +3362,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_DAL.DataTable_WeaponBalance_Unique_DAL,SM_9Volt,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.75
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_DAL.DataTable_WeaponBalance_Unique_DAL,PS_Hornet,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.2
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_DAL.DataTable_WeaponBalance_Unique_DAL,PS_Hornet,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.5
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_DAL.DataTable_WeaponBalance_Unique_DAL,PS_Irradiater,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
@@ -3442,9 +3442,9 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,AR_Rowan,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,PS_Unforgiven,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.2
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,PS_Unforgiven,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.5
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,PS_Unforgiven,Custom_A_10_6BE78EF448AB3F6F228BC7B266814C86,0,,3.0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,PS_Unforgiven,Custom_A_10_6BE78EF448AB3F6F228BC7B266814C86,0,,5.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,PS_WagonWheel,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
@@ -3629,7 +3629,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,PS_Troy,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.35
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,PS_Echo,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.95
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,PS_Echo,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.15
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,PS_NURF,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.65
 
@@ -3637,7 +3637,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,PS_Hyde,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.85
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,PS_RoisensThorns,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.45
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,PS_RoisensThorns,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.60
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,SG_Redline,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
@@ -3843,7 +3843,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/D
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,PS_Lasocannon,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.85
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,PS_Miscreant,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.3
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,PS_Miscreant,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,SG_SpeakEasy,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.15
 
@@ -3980,7 +3980,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Gear/Balance/Dat
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Gear/Balance/DataTable_Raid1_Weapons.DataTable_Raid1_Weapons,SG_TiggsBoom,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.75
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Gear/Balance/DataTable_Raid1_Weapons.DataTable_Raid1_Weapons,PS_HandCannon,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.2
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Gear/Balance/DataTable_Raid1_Weapons.DataTable_Raid1_Weapons,PS_HandCannon,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.4
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Gear/Balance/DataTable_Raid1_Weapons.DataTable_Raid1_Weapons,PS_HandCannon_PT2,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
