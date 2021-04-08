@@ -3555,7 +3555,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Gear/Weapons/SMGs/Maliwan/_Shared/_Design/_Unique/Emporer/Parts/Part_SM_MAL_Barrel_Emporer.Part_SM_MAL_Barrel_Emporer,WeaponUseModeAttributeEffects.AttributeEffects[0],0,,(AttributeToModify=GbxAttributeData'"/Game/GameData/Weapons/Att_Weapon_Damage.Att_Weapon_Damage"',ModifierType=ScaleSimple,ModifierValue=(BaseValueConstant=0.0,DataTableValue=(DataTable=/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,RowName=SM_Emporer,ValueName=DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.0))
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SM_Emporer,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SM_Emporer,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.5
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SM_Crit,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.35
 
@@ -3918,7 +3918,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Alisma/Gear/Weapon/Dat
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Alisma/Gear/Weapon/DataTable_WeaponBalance_Alisma.DataTable_WeaponBalance_Alisma,SM_AshenBeast,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.85
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Alisma/Gear/Weapon/DataTable_WeaponBalance_Alisma.DataTable_WeaponBalance_Alisma,SM_AshenBeast_2,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Alisma/Gear/Weapon/DataTable_WeaponBalance_Alisma.DataTable_WeaponBalance_Alisma,SM_AshenBeast_2,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.85
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Alisma/Gear/Weapon/DataTable_WeaponBalance_Alisma.DataTable_WeaponBalance_Alisma,SG_Convergence,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.85
 
