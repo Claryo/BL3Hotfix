@@ -3891,7 +3891,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/D
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,SR_Narp,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.75
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,AR_Dowsing,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.55
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,AR_Dowsing,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.75
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,SM_Copybeast,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
