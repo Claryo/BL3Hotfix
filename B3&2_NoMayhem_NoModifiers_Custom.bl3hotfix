@@ -3472,9 +3472,9 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,PS_GodQueen,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.65
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,SG_Wave,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.25
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,SG_Wave,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,SG_HellWalker,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.3
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,SG_HellWalker,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.4
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,SG_HellWalker,MinGameStage_5_E12DB0C74420238367FBC1A5221AFB84,0,,1.0
 
@@ -3482,7 +3482,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,SG_Sledge,MinGameStage_5_E12DB0C74420238367FBC1A5221AFB84,0,,1.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,SG_Fingerbiter,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,SG_Fingerbiter,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,SG_NimbleJack,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.2
 
@@ -3559,13 +3559,13 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SM_Crit,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.35
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SG_Recursion,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,9.0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SG_Recursion,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,10.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SG_Recursion,Custom_A_10_6BE78EF448AB3F6F228BC7B266814C86,0,,4000.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SG_Recursion,MinGameStage_5_E12DB0C74420238367FBC1A5221AFB84,0,,1.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SG_Wisp,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,6.0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SG_Wisp,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,7.5
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SG_Wisp,MinGameStage_5_E12DB0C74420238367FBC1A5221AFB84,0,,1.0
 
@@ -3592,7 +3592,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,PS_Plumber,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.5
 
 # Tediore
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TED.DataTable_WeaponBalance_Unique_TED,SG_Sludge,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.4
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TED.DataTable_WeaponBalance_Unique_TED,SG_Sludge,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.8
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SG_Sludge,MinGameStage_5_E12DB0C74420238367FBC1A5221AFB84,0,,1.0
 
@@ -3778,7 +3778,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Hibiscus/Gear/Weapon/D
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Hibiscus/Gear/Weapon/DataTable_WeaponBalance_Hibiscus.DataTable_WeaponBalance_Hibiscus,SG_Anarchy,Custom_A_10_6BE78EF448AB3F6F228BC7B266814C86,0,,1.2
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Hibiscus/Gear/Weapon/DataTable_WeaponBalance_Hibiscus.DataTable_WeaponBalance_Hibiscus,SG_Anarchy_2,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Hibiscus/Gear/Weapon/DataTable_WeaponBalance_Hibiscus.DataTable_WeaponBalance_Hibiscus,SG_Anarchy_2,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.5
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Hibiscus/Gear/Weapon/DataTable_WeaponBalance_Hibiscus.DataTable_WeaponBalance_Hibiscus,SG_TheCure,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.4
 
