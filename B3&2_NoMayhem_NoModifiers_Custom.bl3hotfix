@@ -3282,9 +3282,9 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_ATL.DataTable_WeaponBalance_Unique_ATL,PS_Peacemonger,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.5
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_ATL.DataTable_WeaponBalance_Unique_ATL,HW_Freeman,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.8
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_ATL.DataTable_WeaponBalance_Unique_ATL,HW_Freeman,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.2
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_ATL.DataTable_WeaponBalance_Unique_ATL,HW_RubysWrath,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.1
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_ATL.DataTable_WeaponBalance_Unique_ATL,HW_RubysWrath,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.2
 
 # CoV
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_COV.DataTable_WeaponBalance_Unique_COV,AR_SAWBAR,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.75
@@ -3315,11 +3315,11 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_COV.DataTable_WeaponBalance_Unique_COV,PS_PsychoStabber,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_COV.DataTable_WeaponBalance_Unique_COV,HW_PortaPooper,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.65
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_COV.DataTable_WeaponBalance_Unique_COV,HW_PortaPooper,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,3.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_COV.DataTable_WeaponBalance_Unique_COV,HW_HotDrop,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.2
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_COV.DataTable_WeaponBalance_Unique_COV,HW_Terror,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_COV.DataTable_WeaponBalance_Unique_COV,HW_Terror,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,3.0
 
 # Dahl
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_DAL.DataTable_WeaponBalance_Unique_DAL,AR_BOTD,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.35
@@ -3667,9 +3667,9 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,AR_Alchemist,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.8
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,HW_Swarm,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,HW_Swarm,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.8
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,HW_Tunguska,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.55
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,HW_Tunguska,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,HW_Rampager,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.8
 
@@ -3677,12 +3677,12 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,HW_RYNO,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.2
 
-SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Gear/Weapons/HeavyWeapons/Torgue/_Shared/_Design/_Unique/BurgerCannon/Parts/Part_HW_TOR_Barrel_BurgerCannon.Part_HW_TOR_Barrel_BurgerCannon,WeaponUseModeAttributeEffects,0,,(AttributeToModify=GbxAttributeData'"/Game/GameData/Weapons/Att_Weapon_Damage.Att_Weapon_Damage"',ModifierType=ScaleSimple,ModifierValue=(BaseValueConstant=3.0,DataTableValue=(DataTable=None,RowName=None,ValueName=None),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.0))
+SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Gear/Weapons/HeavyWeapons/Torgue/_Shared/_Design/_Unique/BurgerCannon/Parts/Part_HW_TOR_Barrel_BurgerCannon.Part_HW_TOR_Barrel_BurgerCannon,WeaponUseModeAttributeEffects,0,,(AttributeToModify=GbxAttributeData'"/Game/GameData/Weapons/Att_Weapon_Damage.Att_Weapon_Damage"',ModifierType=ScaleSimple,ModifierValue=(BaseValueConstant=5.0,DataTableValue=(DataTable=None,RowName=None,ValueName=None),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.0))
 
 # Vladof
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_VLA.DataTable_WeaponBalance_Unique_VLA,HW_Mongol,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_VLA.DataTable_WeaponBalance_Unique_VLA,HW_Cloudburst,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.95
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_VLA.DataTable_WeaponBalance_Unique_VLA,HW_Cloudburst,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.5
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_VLA.DataTable_WeaponBalance_Unique_VLA,AR_Sickle,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.5
 
@@ -3719,13 +3719,13 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Weapon/
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Weapon/DataTable_WeaponBalance_Dandelion.DataTable_WeaponBalance_Dandelion,AR_Trash,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.15
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Weapon/DataTable_WeaponBalance_Dandelion.DataTable_WeaponBalance_Dandelion,HW_IonCannon,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,4.0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Weapon/DataTable_WeaponBalance_Dandelion.DataTable_WeaponBalance_Dandelion,HW_IonCannon,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,5.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Weapon/DataTable_WeaponBalance_Dandelion.DataTable_WeaponBalance_Dandelion,SM_IonLaser,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.9
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Weapon/DataTable_WeaponBalance_Dandelion.DataTable_WeaponBalance_Dandelion,SM_IonLaser,Custom_B_11_6D4E8C1140CC269ED614BC958ECB0E22,0,,0.3
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Weapon/DataTable_WeaponBalance_Dandelion.DataTable_WeaponBalance_Dandelion,HW_Nukem,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,3.2
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Weapon/DataTable_WeaponBalance_Dandelion.DataTable_WeaponBalance_Dandelion,HW_Nukem,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,4.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Dandelion/Gear/Weapon/DataTable_WeaponBalance_Dandelion.DataTable_WeaponBalance_Dandelion,SG_HeartBreaker,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.85
 
@@ -3877,7 +3877,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/D
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,SM_Flipper,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.65
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,HW_Plumage,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.62
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,HW_Plumage,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.5
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,PS_UnkemptHarold,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.9
 
@@ -3887,7 +3887,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/D
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,AR_BioBetsy,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,HW_Satistfaction,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,HW_Satistfaction,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.2
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Geranium/Gear/Weapon/DataTable_WeaponBalance_Geranium.DataTable_WeaponBalance_Geranium,SR_Narp,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.75
 
@@ -3931,7 +3931,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Gear/Weapon/Da
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Gear/Weapon/DataTable_WeaponBalance_Mayhem2.DataTable_WeaponBalance_Mayhem2,HW_Plague,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.55
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Gear/Weapon/DataTable_WeaponBalance_Mayhem2.DataTable_WeaponBalance_Mayhem2,HW_Backburner,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.7
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Gear/Weapon/DataTable_WeaponBalance_Mayhem2.DataTable_WeaponBalance_Mayhem2,HW_Backburner,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Gear/Weapon/DataTable_WeaponBalance_Mayhem2.DataTable_WeaponBalance_Mayhem2,Kaoson,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.75
 
