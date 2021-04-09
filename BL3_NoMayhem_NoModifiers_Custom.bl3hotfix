@@ -6312,3 +6312,19 @@ SparkPatchEntry,(1,2,0,),/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_
 
 # Fix Aurelia's drop for Juliet's Dazzle
 SparkCharacterLoadedEntry,(1,1,0,BPChar_AureliaBoss),/Game/PatchDLC/Raid1/GameData/Loot/ItemPools/ItemPool_AureliaBoss.ItemPool_AureliaBoss,BalancedItems.BalancedItems[0].ResolvedInventoryBalanceData,0,,InventoryBalanceData'"/Game/PatchDLC/Raid1/Re-Engagement/Weapons/Juliet/Balance/Balance_AR_TOR_Juliet_WorldDrop.Balance_AR_TOR_Juliet_WorldDrop"'
+
+
+
+
+
+# Player basically takes no damage
+SparkLevelPatchEntry,(1,2,0,FrostSite_P),/Game/PatchDLC/Ixora/GameData/Balance/Table_GearUp_Combat_Balance.Table_GearUp_Combat_Balance,PlayerDamageTakenScale,Value_138_7567CFEB4E1077623BE84EBC11D10EB8,0,,0.001
+
+# Enemies are super-lame
+SparkLevelPatchEntry,(1,2,0,FrostSite_P),/Game/PatchDLC/Ixora/GameData/Balance/Table_GearUp_Combat_Balance.Table_GearUp_Combat_Balance,EnemyAccuracyScale,Value_138_7567CFEB4E1077623BE84EBC11D10EB8,0,,0.001
+SparkLevelPatchEntry,(1,2,0,FrostSite_P),/Game/PatchDLC/Ixora/GameData/Balance/Table_GearUp_Combat_Balance.Table_GearUp_Combat_Balance,EnemyHealthScale,Value_138_7567CFEB4E1077623BE84EBC11D10EB8,0,,0.001
+SparkLevelPatchEntry,(1,2,0,FrostSite_P),/Game/PatchDLC/Ixora/GameData/Balance/Table_GearUp_Combat_Balance.Table_GearUp_Combat_Balance,EnemyHealthPerHumanPlayerScale,Value_138_7567CFEB4E1077623BE84EBC11D10EB8,0,,0
+SparkLevelPatchEntry,(1,2,0,FrostSite_P),/Game/PatchDLC/Ixora/GameData/Balance/Table_GearUp_Combat_Balance.Table_GearUp_Combat_Balance,EnemyHealthScalePerDeathCircle,Value_138_7567CFEB4E1077623BE84EBC11D10EB8,0,,0
+
+# Six-hour time window
+SparkLevelPatchEntry,(1,1,0,FrostSite_P),/Game/PatchDLC/Ixora/GameData/Mode/FrostSiteGearUpData.FrostSiteGearUpData,DeathCircleStages.DeathCircleStages[0].StableSeconds.BaseValueConstant,0,,21600
