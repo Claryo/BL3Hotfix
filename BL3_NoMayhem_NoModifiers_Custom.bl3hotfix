@@ -3979,7 +3979,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/EventVDay/Gear/Weapon/
 # Takedown 1
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Gear/Balance/DataTable_Raid1_Weapons.DataTable_Raid1_Weapons,KybsWorth,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Gear/Balance/DataTable_Raid1_Weapons.DataTable_Raid1_Weapons,P2PNetworker,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.2
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Gear/Balance/DataTable_Raid1_Weapons.DataTable_Raid1_Weapons,P2PNetworker,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Gear/Balance/DataTable_Raid1_Weapons.DataTable_Raid1_Weapons,SG_TiggsBoom,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.75
 
