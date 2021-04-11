@@ -3926,7 +3926,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Alisma/Gear/Weapon/Dat
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Alisma/Gear/Weapon/DataTable_WeaponBalance_Alisma.DataTable_WeaponBalance_Alisma,SG_Convergence,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.85
 
 # Mayhem 2
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Gear/Weapon/DataTable_WeaponBalance_Mayhem2.DataTable_WeaponBalance_Mayhem2,SG_Reflux,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.2
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Gear/Weapon/DataTable_WeaponBalance_Mayhem2.DataTable_WeaponBalance_Mayhem2,SG_Reflux,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Gear/Weapon/DataTable_WeaponBalance_Mayhem2.DataTable_WeaponBalance_Mayhem2,SM_DNA,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.0
 
@@ -3940,7 +3940,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Gear/Weapon/Da
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Gear/Weapon/DataTable_WeaponBalance_Mayhem2.DataTable_WeaponBalance_Mayhem2,PS_Multitap,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.8
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Gear/Weapon/DataTable_WeaponBalance_Mayhem2.DataTable_WeaponBalance_Mayhem2,SR_SandHawk,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.2
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Gear/Weapon/DataTable_WeaponBalance_Mayhem2.DataTable_WeaponBalance_Mayhem2,SR_SandHawk,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
 # Cartel
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Event2/Gear/Weapon/DataTable_WeaponBalance_Event2.DataTable_WeaponBalance_Event2,IcePick,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.15
@@ -3992,7 +3992,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Gear/Balance/Dat
 # Takedown 2
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Takedown2/Gear/Weapons/DataTable_WeaponBalance_Takedown2.DataTable_WeaponBalance_Takedown2,SM_Smog,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,0.35
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Takedown2/Gear/Weapons/DataTable_WeaponBalance_Takedown2.DataTable_WeaponBalance_Takedown2,AR_WebSlinger,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Takedown2/Gear/Weapons/DataTable_WeaponBalance_Takedown2.DataTable_WeaponBalance_Takedown2,AR_WebSlinger,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Takedown2/Gear/Weapons/DataTable_WeaponBalance_Takedown2.DataTable_WeaponBalance_Takedown2,AR_Webslinger_Underbarrel,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.3
 
