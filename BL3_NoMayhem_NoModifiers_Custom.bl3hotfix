@@ -112,7 +112,7 @@ SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/Slaughters/Cr
 
 # Makes The Slaughter Available From The Start
 # Code courtesy of Apocalyptech
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Missions/Side/Slaughters/CreatureSlaughter/Mission_CreatureSlaughter.Default__Mission_CreatureSlaughter_C,MissionDependencies,0,,(Mission'"/Game/Missions/Plot/Mission_Ep01_ChildrenOfTheVault.Mission_Ep01_ChildrenOfTheVault_C"')
+# SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Missions/Side/Slaughters/CreatureSlaughter/Mission_CreatureSlaughter.Default__Mission_CreatureSlaughter_C,MissionDependencies,0,,(Mission'"/Game/Missions/Plot/Mission_Ep01_ChildrenOfTheVault.Mission_Ep01_ChildrenOfTheVault_C"')
 
 # Change the scaling to stick to the BL2 scaling
 SparkPatchEntry,(1,1,0,),/Game/GameData/Balance/HealthAndDamage/Att_UniversalBalanceScaler.Att_UniversalBalanceScaler:BP_ConstantValueResolver_C_0,Value,0,,(BaseValueConstant=1.13)
@@ -177,7 +177,7 @@ SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/CotV/_Mixes/Z
 
 SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/CotV/_Mixes/Zone_3/Motorcade/SpawnOptions_Cotv_MotorcadeBadasses.SpawnOptions_Cotv_MotorcadeBadasses,Options.Options[9].Factory.Object..AIActorClass,0,,
 
-SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/Slaughters/COVSlaughter/SpawnOptions_GoliathMix_COVSlaughter.SpawnOptions_GoliathMix_COVSlaughter,Options.Options[4].Factory.Object..AIActorClass,0,,
+# SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/Slaughters/COVSlaughter/SpawnOptions_GoliathMix_COVSlaughter.SpawnOptions_GoliathMix_COVSlaughter,Options.Options[4].Factory.Object..AIActorClass,0,,
 
 SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Missions/Plot/MarshFields/SpawnOptions_CoVMix_MarshFieldsBadassess_MudNecks.SpawnOptions_CoVMix_MarshFieldsBadassess_MudNecks,Options.Options[9].Factory.Object..AIActorClass,0,,
 
@@ -204,7 +204,7 @@ SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/CotV/_Mixes/Z
 
 SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/CotV/Psychos/Variants/SpawnOptions_PsychoAnointedMale.SpawnOptions_PsychoAnointedMale,Options.Options[0].Factory.Object..AIActorClass,0,,
 
-SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/Slaughters/COVSlaughter/SpawnOptions_PsychoMix_COVSlaughter.SpawnOptions_PsychoMix_COVSlaughter,Options.Options[6].Factory.Object..AIActorClass,0,,
+# SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/Slaughters/COVSlaughter/SpawnOptions_PsychoMix_COVSlaughter.SpawnOptions_PsychoMix_COVSlaughter,Options.Options[6].Factory.Object..AIActorClass,0,,
 
 SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Missions/Plot/MarshFields/SpawnOptions_CoVMix_MarshFieldsBadassess_MudNecks.SpawnOptions_CoVMix_MarshFieldsBadassess_MudNecks,Options.Options[7].Factory.Object..AIActorClass,0,,
 
@@ -237,7 +237,7 @@ SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/CotV/_Mixes/Z
 
 SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/CotV/Punks/Variants/SpawnOptions_PunkAnointed.SpawnOptions_PunkAnointed,Options.Options[0].Factory.Object..AIActorClass,0,,
 
-SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/Slaughters/COVSlaughter/SpawnOptions_PunkMix_COVSlaughter.SpawnOptions_PunkMix_COVSlaughter,Options.Options[6].Factory.Object..AIActorClass,0,,
+# SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/Slaughters/COVSlaughter/SpawnOptions_PunkMix_COVSlaughter.SpawnOptions_PunkMix_COVSlaughter,Options.Options[6].Factory.Object..AIActorClass,0,,
 
 SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Missions/Plot/MarshFields/SpawnOptions_CoVMix_MarshFieldsBadassess_MudNecks.SpawnOptions_CoVMix_MarshFieldsBadassess_MudNecks,Options.Options[6].Factory.Object..AIActorClass,0,,
 
@@ -262,7 +262,7 @@ SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/CotV/Tinks/Va
 
 SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/ProvingGrounds/SpawnOptions_TinkBadassMix_ProvingGrounds.SpawnOptions_TinkBadassMix_ProvingGrounds,Options.Options[2].Factory.Object..AIActorClass,0,,
 
-SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/Slaughters/COVSlaughter/SpawnOptions_TinkMix_COVSlaughter.SpawnOptions_TinkMix_COVSlaughter,Options.Options[5].Factory.Object..AIActorClass,0,,
+# SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/Slaughters/COVSlaughter/SpawnOptions_TinkMix_COVSlaughter.SpawnOptions_TinkMix_COVSlaughter,Options.Options[5].Factory.Object..AIActorClass,0,,
 
 SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Missions/Plot/MarshFields/SpawnOptions_CoVMix_MarshFieldsBadassess_MudNecks.SpawnOptions_CoVMix_MarshFieldsBadassess_MudNecks,Options.Options[8].Factory.Object..AIActorClass,0,,
 
@@ -283,7 +283,7 @@ SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/CotV/_Mixes/Z
 
 SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/CotV/_Mixes/Zone_3/Motorcade/SpawnOptions_Cotv_MotorcadeBadasses.SpawnOptions_Cotv_MotorcadeBadasses,Options.Options[10].Factory.Object..AIActorClass,0,,
 
-SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/Slaughters/COVSlaughter/SpawnOptions_EnforcerMix_COVSlaughter.SpawnOptions_EnforcerMix_COVSlaughter,Options.Options[4].Factory.Object..AIActorClass,0,,
+# SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/Slaughters/COVSlaughter/SpawnOptions_EnforcerMix_COVSlaughter.SpawnOptions_EnforcerMix_COVSlaughter,Options.Options[4].Factory.Object..AIActorClass,0,,
 
 # Removes the Anointed Goons
 SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/CotV/_Mixes/Zone_3/DesertVault/SpawnOptions_CoVMix_DesertVaultBadasses.SpawnOptions_CoVMix_DesertVaultBadasses,Options.Options[12].Factory.Object..AIActorClass,0,,
@@ -292,7 +292,7 @@ SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/CotV/_Mixes/Z
 
 SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/CotV/Goons/Variants/SpawnOptions_GoonAnointed.SpawnOptions_GoonAnointed,Options.Options[0].Factory.Object..AIActorClass,0,,
 
-SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/Slaughters/COVSlaughter/SpawnOptions_GoonMix_COVSlaughter.SpawnOptions_GoonMix_COVSlaughter,Options.Options[3].Factory.Object..AIActorClass,0,,
+# SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Enemies/_Spawning/Slaughters/COVSlaughter/SpawnOptions_GoonMix_COVSlaughter.SpawnOptions_GoonMix_COVSlaughter,Options.Options[3].Factory.Object..AIActorClass,0,,
 
 # Removing The Gear Level Restrictions
 # Makes All Manufacturer Available From lv1
@@ -6315,7 +6315,7 @@ SparkCharacterLoadedEntry,(1,1,0,BPChar_AureliaBoss),/Game/PatchDLC/Raid1/GameDa
 
 
 
-
+# Arms Race cheat
 
 # Player basically takes no damage
 SparkLevelPatchEntry,(1,2,0,FrostSite_P),/Game/PatchDLC/Ixora/GameData/Balance/Table_GearUp_Combat_Balance.Table_GearUp_Combat_Balance,PlayerDamageTakenScale,Value_138_7567CFEB4E1077623BE84EBC11D10EB8,0,,0.001
