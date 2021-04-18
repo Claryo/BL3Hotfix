@@ -3330,7 +3330,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_COV.DataTable_WeaponBalance_Unique_COV,AR_SAWBAR,Custom_A_10_6BE78EF448AB3F6F228BC7B266814C86,0,,250
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_COV.DataTable_WeaponBalance_Unique_COV,AR_KreigDamage,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_COV.DataTable_WeaponBalance_Unique_COV,AR_KreigDamage,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.8
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_COV.DataTable_WeaponBalance_Unique_COV,AR_KreigFirerate,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.5
 
@@ -3608,7 +3608,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SG_Wisp,MinGameStage_5_E12DB0C74420238367FBC1A5221AFB84,0,,1.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SG_Mindkiller,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SG_Mindkiller,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.5
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SG_Shriek,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,12.0
 
@@ -3719,7 +3719,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Ga
 SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/Gear/Weapons/HeavyWeapons/Torgue/_Shared/_Design/_Unique/BurgerCannon/Parts/Part_HW_TOR_Barrel_BurgerCannon.Part_HW_TOR_Barrel_BurgerCannon,WeaponUseModeAttributeEffects,0,,(AttributeToModify=GbxAttributeData'"/Game/GameData/Weapons/Att_Weapon_Damage.Att_Weapon_Damage"',ModifierType=ScaleSimple,ModifierValue=(BaseValueConstant=5.0,DataTableValue=(DataTable=None,RowName=None,ValueName=None),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.0))
 
 # Vladof
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_VLA.DataTable_WeaponBalance_Unique_VLA,HW_Mongol,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.5
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_VLA.DataTable_WeaponBalance_Unique_VLA,HW_Mongol,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,2.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_VLA.DataTable_WeaponBalance_Unique_VLA,HW_Cloudburst,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.5
 
@@ -4050,7 +4050,7 @@ SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Re-Engagement/Ba
 
 SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/PatchDLC/Raid1/Re-Engagement/Weapons/CraderMP5/Parts/Part_SM_DAL_Barrel_CraderMP5.Part_SM_DAL_Barrel_CraderMP5,AspectList.AspectList[0].Object..WeaponUseComponent.Object..FireRate.BaseValue,0,,5.0
 
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Re-Engagement/Balance/DataTable_ReEngagement1_Weapons.DataTable_ReEngagement1_Weapons,Deathgrip,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,3.0
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Re-Engagement/Balance/DataTable_ReEngagement1_Weapons.DataTable_ReEngagement1_Weapons,Deathgrip,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,5.0
 
 SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Re-Engagement/Balance/DataTable_ReEngagement1_Weapons.DataTable_ReEngagement1_Weapons,Execute,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
 
